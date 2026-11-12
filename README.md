@@ -432,4 +432,4 @@ Until then, no open-source reuse or redistribution permission should be assumed.
 
 *Investigate with structure. Preserve with integrity. Analyze with transparency.*
 
-**SIH 2026 | PS 26148 | NTRO**
+**NTRO**
